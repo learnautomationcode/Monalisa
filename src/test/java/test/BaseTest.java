@@ -44,6 +44,8 @@ public class BaseTest {
 			driver= new FirefoxDriver();
 			driver.get(url);
 		}
+		
+		System.out.println("test2");
 	
 	
 	}
